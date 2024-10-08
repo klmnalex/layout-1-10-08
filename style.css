@@ -4,3 +4,24 @@ body {
     color: #333;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#wrapper {
+    border: 1px solid #333;
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+    background-color: #ddd;
+}
+
+header {
+    height: 200px;
+    border: 1px solid #333;
+    background-color: #ccc;
+}
+
+nav {
+    border: 1px solid #333;
+    background-color: #ccc;
+    height: 50px;
+    margin-top: 10px;
+}
